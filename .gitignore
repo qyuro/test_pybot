@@ -25,6 +25,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Логи
+logs
 logs/
 *.log
 *.log.*
